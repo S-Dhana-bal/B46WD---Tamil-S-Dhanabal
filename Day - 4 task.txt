@@ -1,0 +1,30 @@
+Day - 3
+
+Difference between document vs window object.
+
+
+DOM - Document object model
+
+The document object model is a programming interface for web documents.
+its represents the page so that can change style,structure and content.
+it's represents the documents nodes and content. that way,
+programming language can interact with the page. 
+We can access the document object using window.document.tittle or
+document.tittle.These used for Document Object Model and Browser Object Model.
+It loaded in the window object.
+
+
+Ex: 
+Window.tittle,images,links,form etc....
+
+BOM - Browser object model
+
+The browser object model represents in the browser window. all global 
+javascript object,function and variable automatically member of the browser 
+window.The global variable are properties of the window browser.
+The global function are properties of the browser window. We can access 
+using window only. These used for Browser object model only BOM.
+it's very fast loaded in the browser window.
+
+Ex:
+Window.history,location,navigator,iframe.
